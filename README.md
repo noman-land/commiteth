@@ -20,7 +20,6 @@ The `develop` branch is automatically deployed here.
 You will need [Leiningen](https://github.com/technomancy/leiningen) 2.0 or above installed.
 
 ### PostgreSQL
-<<<<<<< HEAD
 
 Make sure you install [PostgreSQL](https://www.postgresql.org/) and properly set it up:
 
@@ -38,8 +37,6 @@ lein run
 lein figwheel
 lein less auto
 ```
-
-=======
 
 Make sure you install [PostgreSQL](https://www.postgresql.org/) and properly set it up:
 
